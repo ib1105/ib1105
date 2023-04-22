@@ -27,12 +27,17 @@
 <summary>2023</summary>
   
 (인프런강의)기출로 대비하는 개발자 전공면접[CS 완전정복]<br>
-
+(인프런강의)만들고 비교하며 학습하는 리액트 (React)
+  
 </details>
 
 <details>
 <summary>To Do</summary>
 
+(인프런강의)Vue.js 시작하기 - Age of Vue.js<br>
+(인프런강의)Jenkins를 이용한 CI/CD Pipeline 구축<br>
+(인프런강의)Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)<br>
+(인프런강의)스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security<br>
 (패스트캠퍼스)게시판 서비스<br>
 (패스트캠퍼스)게시판 서비스 고도화<br>
 (패스트캠퍼스)어드민 서비스<br>
