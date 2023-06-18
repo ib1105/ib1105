@@ -28,7 +28,8 @@
 (인프런강의)기출로 대비하는 개발자 전공면접[CS 완전정복]<br>
 (인프런강의)만들고 비교하며 학습하는 리액트 (React)<br>
 (인프런강의)Vue.js 시작하기 - Age of Vue.js<br>
-(인프런강의)Jenkins를 이용한 CI/CD Pipeline 구축
+(인프런강의)Jenkins를 이용한 CI/CD Pipeline 구축<br>
+(인프런강의)Vue3 완벽 마스터: 기초부터 실전까지 - "기본편"
   
 </details>
 
